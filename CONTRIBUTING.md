@@ -2,7 +2,48 @@
 
 Welcome to Citi's Open Source contribution guidelines. We aim to provide simple and easy-to-follow documentation, but suggestions and improvements are always welcome.
 
-## Issues & Pull Requests
+## ⚡ Get started
+
+#### Create an issue
+
+<img src="https://img.shields.io/badge/-coming%20soon-green">
+
+<br />
+<br />
+
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+
+#### Fork the repository
+
+Click on the **fork** button at the top of the page. This will create a copy of this repository under your GitHub account.
+
+<br />
+<br />
+
+#### Clone the repository
+
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+
+**Clone** the repository to your machine. Go to the repository via your GitHub account and click on the **Code** button.
+
+Run the following command in a terminal/command line:
+
+```bash
+$ git clone https://github.com/YOUR_GITHUB_USRERNAME/REPO_NAME.git
+```
+
+<br />
+<br />
+
+#### Make your changes, commit & push
+
+<img src="https://img.shields.io/badge/-coming%20soon-green">
+
+#### Open a pull request
+
+<img src="https://img.shields.io/badge/-coming%20soon-green">
+
+#### 🎉 Congratulations
 
 <img src="https://img.shields.io/badge/-coming%20soon-green">
 
