@@ -57,10 +57,10 @@ Open source projects are commonly distributed under an [open source license](htt
 
 To accept the terms of a project's license and for us to accept your contribution, you must agree to the [Developer Certificate of Origin](/DCO.md) on *each contribution* (referred to as per-commit sign-off).
 
-To agree to the DCO, simply add the `-S` flag each time you create a commit:
+To agree to the DCO, simply add the `-s` flag each time you create a commit:
 
 ```bash
-$ git commit -S ...
+$ git commit -s ...
 ```
 To sign-off historical commits missing a signature, you can run:
 
